@@ -1,25 +1,12 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# [FWHIBBIT](http://fwhibbit.github.io/) - [Blog](http://fwhibbit.blogspot.com.es/)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+![logo](/img/logo/avatar_escalado.jpg)
 
-## Getting Started
+[FWHIBBIT](http://fwhibbit.github.io/) is a group formed by a couple of friends to study and develop new ideas in cybersecurity area. You can follow our new post in the  [blog](http://fwhibbit.blogspot.com.es/).
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+## Webpage
 
-## Bugs and Issues
-
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Webpage was edited and created by [@juanvelasco](https://github.com/juanvelascogomez). One of the members of the group using [startbootstrap](http://startbootstrap.com/) designs.
 
 ## Copyright and License
 
