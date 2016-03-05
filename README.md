@@ -2,11 +2,23 @@
 
 ![logo](/img/logo/avatar_escalado.jpg)
 
-[FWHIBBIT](http://fwhibbit.github.io/) is a group formed by a couple of friends to study and develop new ideas in cybersecurity area. You can follow our new post in the  [blog](http://fwhibbit.blogspot.com.es/).
+[FWHIBBIT](http://fwhibbit.github.io/) es un grupo formado por una serie de amigos que estudian y trabajan sobre nuevas ideas en el ámbito de la ciberseguridad. Puedes seguir nuestro [blog](http://fwhibbit.blogspot.com.es/) para más información.
 
-## Webpage
+## Página web
 
-Webpage was edited and created by [@juanvelasco](https://github.com/juanvelascogomez). One of the members of the group using [startbootstrap](http://startbootstrap.com/) designs.
+La página web fue creada y editada por [@juanvelasco](https://github.com/juanvelascogomez), uno de los miembros del grupo usando los diseños de [startbootstrap](http://startbootstrap.com/).
+
+## Cómo contribuir
+
+Si quereis colaborar desde github tenéis que:
+
+  - En el repositorio original hacer un **fork** del repositorio, para tenerlo en vuestro perfil.
+  - Hacer un git clone del repositorio que habeis hecho fork en vuestro ordenador.
+  - Modificar lo que querais
+  - Subirlo a vuestra cuenta (git push normal)
+  - Desde github.com teneis que ir al repositorio vuestro y darle al botón "New pull request"
+  - Y esperar a que desde la cuenta **fwhibbit** de github se acepten los cambios.
+
 
 ## Copyright and License
 
